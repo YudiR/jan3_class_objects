@@ -32,3 +32,9 @@ puts yudi.deposit(55)
 puts yudi.withdraw(55)
 
 puts yudi.total
+
+yudi.deposit(55)
+
+puts yudi.total
+
+puts yudi.total
